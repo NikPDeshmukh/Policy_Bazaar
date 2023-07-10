@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+    <line>
+      <![CDATA[reading dataurlfrom property]]>
+    </line>
+    <line>
+      <![CDATA[Launchig Browser]]>
+    </line>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+    <line>
+      <![CDATA[click on sign in button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+    <line>
+      <![CDATA[reading datamobNumfrom property]]>
+    </line>
+    <line>
+      <![CDATA[Enter mobile number]]>
+    </line>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+    <line>
+      <![CDATA[click with sign in button]]>
+    </line>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+    <line>
+      <![CDATA[reading datapwdfrom property]]>
+    </line>
+    <line>
+      <![CDATA[Enter password]]>
+    </line>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+    <line>
+      <![CDATA[login with sign in button home page]]>
+    </line>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+    <line>
+      <![CDATA[my account page ]]>
+    </line>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+    <line>
+      <![CDATA[my profile page]]>
+    </line>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+    <line>
+      <![CDATA[Switching to child pge id]]>
+    </line>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+    <line>
+      <![CDATA[reading dataUNfrom property]]>
+    </line>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+    <line>
+      <![CDATA[Waiting time for1000milli sec]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-09T11:16:19 IST" name="Suite" finished-at="2023-07-09T11:18:19 IST" duration-ms="119712">
+    <groups>
+    </groups>
+    <test started-at="2023-07-09T11:16:19 IST" name="Test" finished-at="2023-07-09T11:18:19 IST" duration-ms="119712">
+      <class name="test.PB_TC_2195_ValidatePolicyUserName">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:test.PB_TC_2195_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-09T11:16:20 IST" name="launchBrowser" finished-at="2023-07-09T11:16:59 IST" duration-ms="39759" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+            <line>
+              <![CDATA[reading dataurlfrom property]]>
+            </line>
+            <line>
+              <![CDATA[Launchig Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="signintoPolicyBazaar()[pri:0, instance:test.PB_TC_2195_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-09T11:17:00 IST" name="signintoPolicyBazaar" finished-at="2023-07-09T11:17:57 IST" duration-ms="57216" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+            <line>
+              <![CDATA[click on sign in button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+            <line>
+              <![CDATA[reading datamobNumfrom property]]>
+            </line>
+            <line>
+              <![CDATA[Enter mobile number]]>
+            </line>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+            <line>
+              <![CDATA[click with sign in button]]>
+            </line>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+            <line>
+              <![CDATA[reading datapwdfrom property]]>
+            </line>
+            <line>
+              <![CDATA[Enter password]]>
+            </line>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+            <line>
+              <![CDATA[login with sign in button home page]]>
+            </line>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+            <line>
+              <![CDATA[my account page ]]>
+            </line>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+            <line>
+              <![CDATA[my profile page]]>
+            </line>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+            <line>
+              <![CDATA[Switching to child pge id]]>
+            </line>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signintoPolicyBazaar -->
+        <test-method signature="ValidateUserName()[pri:0, instance:test.PB_TC_2195_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-09T11:17:57 IST" name="ValidateUserName" finished-at="2023-07-09T11:18:13 IST" duration-ms="15995" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[reading dataUNfrom property]]>
+            </line>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateUserName -->
+        <test-method is-config="true" signature="logOutFromPolicyBazaar()[pri:0, instance:test.PB_TC_2195_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-09T11:18:13 IST" name="logOutFromPolicyBazaar" finished-at="2023-07-09T11:18:15 IST" duration-ms="2521" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Waiting time for1000milli sec]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logOutFromPolicyBazaar -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.PB_TC_2195_ValidatePolicyUserName@3e27ba32]" started-at="2023-07-09T11:18:15 IST" name="closeBrowser" finished-at="2023-07-09T11:18:19 IST" duration-ms="3710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.PB_TC_2195_ValidatePolicyUserName -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
